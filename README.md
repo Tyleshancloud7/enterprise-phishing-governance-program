@@ -79,14 +79,3 @@ This program aligns with:
 
 ---
 
-## 📊 KPI Trend Example
-
-### Click Rate Trend
-![Click Rate](screenshots/click_rate_trend.png)
-
-### Reporting Rate Trend
-![Reporting Rate](screenshots/reporting_rate_trend.png)
-
----
-
-## 📂 Project Structure
